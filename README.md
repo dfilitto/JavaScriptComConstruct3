@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/dfilitto/MeuBichinhoVirtual/main/C-Sharp%20-%20Construindo%20um%20bichinho%20virtual.jpg)
 # JavaScript: Aprenda programação criando jogos no Construct
 
 O curso JavaScript: Aprenda programação criando jogos no Construct é a porta de entrada perfeita para dominar JavaScript enquanto cria jogos envolventes no Construct 3. Ao longo deste programa imersivo, você mergulhará na linguagem de programação JavaScript enquanto utiliza o Construct 3, um poderoso motor de jogos para transformar suas ideias em jogos reais.
@@ -38,4 +39,4 @@ Desenvolvimento de Jogabilidade:
 
 Uma das coisas mais fascinantes deste curso é que tudo que você aprender sobre JavaScript será uma habilidade versátil, aplicável não apenas no desenvolvimento de jogos, mas também na criação de sites dinâmicos e aplicativos inovadores.
 
-Link: Clique no link JavaScript: Aprenda programação criando jogos no Construct (https://www.udemy.com/course/draft/5663157/?referralCode=BC595BF7DA10DF91CD7B) para acessar o curso.
+Link: Clique no link [JavaScript: Aprenda programação criando jogos no Construct](https://www.udemy.com/course/draft/5663157/?referralCode=BC595BF7DA10DF91CD7B) para acessar o curso.
